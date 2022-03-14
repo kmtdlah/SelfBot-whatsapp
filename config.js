@@ -30,10 +30,10 @@ global.SymbolMeaning = `*Symbol meaning :*
 const spack = fs.readFileSync("lib/exif.json")
 const stickerpack = JSON.parse(spack)
 if (stickerpack.spackname == '') {
-  var sticker_name = `𝙵ͥ͢𝚊ͣ𝚛ͫ𝚒͓͒𝚒𝙳͓ͯ - 💓
+  var sticker_name = `𝕭𝖔𝖙 • Andii ༢࿔ྀ
 
-❑ ιηѕтαgяαм : @F
-❑ gιтнυв : @F
+❑ ιηѕтαgяαм : @𝕭𝖔𝖙 • Andii ༢࿔ྀ
+❑ gιтнυв : @𝕭𝖔𝖙 • Andii ༢࿔ྀ
 ❑ ωнαтѕαρρ : 6285719116912\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n`
   var sticker_author = ``
 } else {
