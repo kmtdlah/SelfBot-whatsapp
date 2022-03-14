@@ -1,3 +1,3 @@
-let handler = async (m) => m.reply('https://github.com/Fariiid-M/SelfBot-whatsapp') 
+let handler = async (m) => m.reply('https://Hentai.com') 
 handler.command = /^(sc)$/i
 module.exports = handler
